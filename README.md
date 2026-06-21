@@ -1,2 +1,14 @@
 # hupu-bet-notes
-HTML page archive and documentation
+
+HTML 资料页存档
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
